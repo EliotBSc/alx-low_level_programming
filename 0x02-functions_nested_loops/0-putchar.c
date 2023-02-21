@@ -1,11 +1,7 @@
-#include <stdio.h>
+#include <unistd.h>
 
-/**
- * main - print putchar
- * return: Always 0
- */
-int main(void)
+int _putchar(char c)
 {
-printf("_putchar\n");
-return (0);
+return (write(1. &c, 1));
 }
+

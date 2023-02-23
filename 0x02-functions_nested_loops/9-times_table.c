@@ -35,7 +35,7 @@ _putchar('\n');
 s++;
 }
 s = 0;
- count++;
+count++;
 }
 }
 

@@ -3,7 +3,7 @@
 /**
  * _strncat - adds two strings
  * @dest: pointer input value
- * @scr: pointer input value
+ * @src: pointer input value
  * @n: input value
  *
  * Return: pointer dest

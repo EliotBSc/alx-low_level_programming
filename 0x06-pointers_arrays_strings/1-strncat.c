@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * _strncat - adds pointer for n bytes for scr
- * @dest: pointer input
- * @scr: pointer input
- * @n: number of bytes from scr
+ * _strncat - adds two strings
+ * @dest: pointer input value
+ * @scr: pointer input value
+ * @n: input value
+ *
  * Return: pointer dest
  */
 char *_strcat(char *dest, char *src, int n)
